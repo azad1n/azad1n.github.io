@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>AdversarialCNN on Azadin</title>
+    <link>http://localhost:1313/en/tags/adversarialcnn/</link>
+    <description>Recent content in AdversarialCNN on Azadin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mohamed.anaddam@outlook.com (azadin)</managingEditor>
+    <webMaster>mohamed.anaddam@outlook.com (azadin)</webMaster>
+    <copyright>©2025, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/en/tags/adversarialcnn/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>TryHackMe - No Hack No CTF 2025 Writeup</title>
+        <link>http://localhost:1313/en/posts/no-hack-no-ctf-2025-writeup/</link>
+        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+        <author>mohamed.anaddam@outlook.com (azadin)</author>
+        <atom:modified>Thu, 03 Jul 2025 00:00:00 +0000</atom:modified>
+        <guid>http://localhost:1313/en/posts/no-hack-no-ctf-2025-writeup/</guid>
+        <description>Can you bypass the login form?
+Title Capture Description Can you bypass the login form? Points 30 Difficulty Easy Maker toxicat0r Summary Poster: in this machine we use are given a list of usernames and passwords, we notice the errors on the login page are quite verbose, which would allow for user enumeration, thus we get valid users, which we use then to bruteforce the passwords, but there is a check against the enumeration which should be bypassed.</description>
+        
+        <dc:creator>azadin</dc:creator>
+        <media:content url="http://localhost:1313//images/tryhackme/capture/cover.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>adversarialCNN</category>
+            
+          
+            
+              <category>WAF</category>
+            
+          
+            
+              <category>Rate limiting</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>User enumeration</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
